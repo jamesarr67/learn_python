@@ -14,4 +14,3 @@ A post about learning basic python progamming.
 ```javascript
 print("learn python")
 ```
-
