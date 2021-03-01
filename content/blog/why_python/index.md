@@ -1,7 +1,7 @@
 ---
-title: Python Post The First
-date: "2021-02-28"
-description: "Start Learning Python"
+title: Why Python
+date: "2021-03-01"
+description: "Why Learn Python As Your First Language"
 ---
 
 [Python Official Site](https://www.python.org/downloads/)
